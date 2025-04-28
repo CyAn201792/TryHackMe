@@ -16,19 +16,6 @@ Each folder contains:
 
 ---
 
-## Directory Structure
-CTF/
-└── TryHackMe/
-└── Rooms/
-├── Warzone1/
-│   ├── notes.md
-│   └── Screenshots/
-├── Warzone2/
-│   ├── notes.md
-│   └── Screenshots/
-└── …
----
-
 ## Skills Practiced
 - Network Scanning and Enumeration (Nmap, Gobuster, etc.)
 - Vulnerability Analysis and Exploitation
